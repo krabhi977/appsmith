@@ -43,7 +43,7 @@ You can try our online sandbox or deploy a Docker image on a server.
 * [Online sandbox](https://bit.ly/appsmith-signup-github)
 * [Deploy with Docker](https://bit.ly/appsmith-docker-github)
 
-## 😇 Why Appsmith?
+## 😇 Why Appsmith ?
 
 When we build internal tools today, we turn to admin panels, UI frameworks or use a bootstrap theme. We took inspirations from the best admin panels, bootstrap themes, and brought back the easy UI builder of Visual Basic.
 
